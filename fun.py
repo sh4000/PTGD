@@ -1,4 +1,4 @@
-#j'te ez dans tout avec python !
+#on peut tout faire avec python !
 #:joy:
 
 
