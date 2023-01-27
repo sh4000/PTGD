@@ -1,2 +1,2 @@
 # PTGD
-Python Turtle Graphics Design 
+fun ! 😂
